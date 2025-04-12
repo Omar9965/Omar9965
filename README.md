@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Omar Mohamed 
+# 👋 Hi there, I'm Omar Mohamed Amin
 
 ---
 
@@ -7,6 +7,7 @@
 I'm passionate about Data science, Machine Learning, with a focus on Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, RAG, AI-Agent, Problem Solving, AI. I love building AI System.
 
 - 🌍 Based in Egypt  
+- 💻 Currently working as Freelancer In Upwork  
 - 🎓 Studied In Faculty Of Artificial Intelligence  
 - 🌱 Learning ML, DL, Computer Vision and NLP, LLMs, RAG, LangChain, Llama-index, AI-Agent.  
 
@@ -30,7 +31,8 @@ I work with a variety of technologies and tools:
 
 ## 🏆 Achievements
 
-![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)   
+![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-Gold-yellow?style=for-the-badge)  
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Gold-yellow?style=for-the-badge)  
-
+![SQL](https://img.shields.io/badge/SQL-Gold-yellow?style=for-the-badge)  
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Silver-lightgray?style=for-the-badge)  
+![C++](https://img.shields.io/badge/C++-Silver-lightgray?style=for-the-badge)  
